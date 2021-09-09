@@ -20,7 +20,7 @@
 - Generally only one active user at a time
 - Controlled by the User
 
-> Databases
+> ## Databases
 
 - Data stores - accessed using “Query Language” (eg.SQL)
 - Structure data using rules and relationships
