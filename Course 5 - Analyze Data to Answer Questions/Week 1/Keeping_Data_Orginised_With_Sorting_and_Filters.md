@@ -33,7 +33,7 @@ _For Example,_ if you are only interested in finding out who watched movies in O
 
 To recap, the easiest way to remember the difference between sorting and filtering is that you can use sort to quickly order the data, and filter to display _ONLY_ the data that meets the criteria that you have chosen. use filtering when you need to reduce the amount of data that is displayed.
 
-It is important to point out that, after you filter data, **you can sort the filtered data**, too. If you revisit the example of finding out who watched movies in October, after you have filtered for the movines seen in October, you can then sort the names of the people who watched those movies in alphabetical order.
+It is important to point out that, after you filter data, **you can sort the filtered data**, too. If you revisit the example of finding out who watched movies in October, after you have filtered for the movies seen in October, you can then sort the names of the people who watched those movies in alphabetical order.
 
 ## Sorting a pivot table
 
